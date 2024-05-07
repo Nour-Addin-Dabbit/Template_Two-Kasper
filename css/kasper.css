@@ -575,6 +575,20 @@ header nav .form i {
     width: fit-content;
     margin: 30px auto;
     text-transform: uppercase;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.portfolio .more:hover{
+    scale: 1.1;
 }
 /* End Portfolio */
 
@@ -628,6 +642,11 @@ header nav .form i {
     padding: 10px 20px;
     color: white;
     text-transform: uppercase;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 /* End Video */
 
@@ -1011,6 +1030,11 @@ header nav .form i {
     -moz-transition: 0.3s;
     -ms-transition: 0.3s;
     -o-transition: 0.3s;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 .pricing .plans .plan .foot a:hover{
@@ -1034,6 +1058,20 @@ header nav .form i {
     text-decoration: none;
     padding: 15px 30px;
     margin: 20px auto;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.pricing .contact-link:hover{
+    scale: 1.1;
 }
 /* End Pricing */
 
@@ -1110,6 +1148,7 @@ header nav .form i {
     border: 1px solid white;
     text-transform: uppercase;
     border-left: none;
+    
 }
 
 .subscribe p{
@@ -1174,6 +1213,20 @@ header nav .form i {
     margin-left: auto;
     text-transform: uppercase;
     cursor: pointer;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+
+.contact .content form input[type="submit"]:hover{
+    scale: 1.1;
 }
 
 .contact .content .info {
